@@ -4,6 +4,8 @@
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [esbuild](https://github.com/evanw/esbuild) - 就是快！
 
+- 💐 [Vuetify](https://vuetifyjs.com/zh-Hans/) - 无需设计技能即可使用的开源 U库，拥有精美手工制作的 Vue 组件（适配移动端）
+
 - 🗂 [基于文件的路由](./src/pages)
 
 - 📦 [组件自动化加载](./src/components)
