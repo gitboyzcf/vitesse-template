@@ -1,4 +1,4 @@
-# 相机模块工具包
+# 基于vitesse、vuetify-ui的Vue3、TS项目模板
 
 ## 特性
 
