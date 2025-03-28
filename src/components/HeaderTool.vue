@@ -16,7 +16,7 @@ async function toggleLocales() {
   const newLocale = locales[(locales.indexOf(locale.value) + 1) % locales.length]
   await loadLanguageAsync(newLocale)
   locale.value = newLocale
-  current.value = newLocale
+  current.value = newLocale === 'zh-CN' ? 'zhHans' : newLocale
 }
 </script>
 
